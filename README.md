@@ -1,4 +1,4 @@
-# Kattis Solutions [:smile_cat:]
+# Kattis Solutions :smile_cat:
 ## Problems from [open.kattis.com](https://open.kattis.com/)
 
 Solution | Language | Problem
