@@ -1,12 +1,8 @@
-# Kattis Solutions :smile_cat:
+# Kattis Solutions [![:smile_cat:](https://open.kattis.com/favicon)]
 ## Problems from [open.kattis.com](https://open.kattis.com/)
 
-[Dice Game](https://open.kattis.com/problems/dicegame)
-[Boss Battle](https://open.kattis.com/problems/bossbattle)
-[Chewbacca](https://open.kattis.com/problems/chewbacca)
-
-Problem | Language
---- | ---
-**[Dice Game](https://open.kattis.com/problems/dicegame)**|Python 2
-**[Boss Battle](https://open.kattis.com/problems/bossbattle)**|Python 2
-**[Chewbacca](https://open.kattis.com/problems/chewbacca)**|Python 2
+Solution | Language | Problem
+--- | --- | ---
+**[Dice Game]**(https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Dice%20Game)|Python 2|[:smile_cat:](https://open.kattis.com/problems/dicegame)
+**[Boss Battle]**(https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Boss%20Battle)|Python 2|[:smile_cat:](https://open.kattis.com/problems/bossbattle)
+**[Chewbacca]**(https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Chewbacca)|Python 2|[:smile_cat:](https://open.kattis.com/problems/chewbacca)
