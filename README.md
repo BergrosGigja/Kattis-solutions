@@ -7,3 +7,4 @@ Solution | Language | Problem
 **[Boss Battle](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Boss%20Battle)**|Python 2|[:video_game:](https://open.kattis.com/problems/bossbattle)
 **[Chewbacca](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Chewbacca)**|Python 2|[:bear:](https://open.kattis.com/problems/chewbacca)
 **[Text Encryption](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Text%20Encryption)**|Python 3|[:email:](https://open.kattis.com/problems/textencryption)
+**[Server](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Server)**|Java|[:minidisc:](https://open.kattis.com/problems/Server)
