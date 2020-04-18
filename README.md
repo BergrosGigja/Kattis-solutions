@@ -7,6 +7,7 @@ Solution | Language | Problem
 **[Baby Bites](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Baby%20Bites)**|C++|[👶](https://open.kattis.com/problems/babybites)
 **[Bijele](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Bijele)**|C++|[♟](https://open.kattis.com/problems/bijele)
 **[Boss Battle](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Boss%20Battle)**|Python 2|[🎮](https://open.kattis.com/problems/bossbattle)
+**[CD](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/CD)**|C++|[💿](https://open.kattis.com/problems/cd)
 **[Chewbacca](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Chewbacca)**|Python 2|[:bear:](https://open.kattis.com/problems/chewbacca)
 **[Cold-puter Science](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Cold-puter%20Science)**|C++|[❄](https://open.kattis.com/problems/cold)
 **[Dice Game](https://github.com/BergrosGigja/Kattis-solutions/tree/master/src/Dice%20Game)**|Python 2|[:game_die:](https://open.kattis.com/problems/dicegame)
